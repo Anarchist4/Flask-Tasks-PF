@@ -1,3 +1,6 @@
+### This task is not entirely mine and it is not 100%
+
+
 from flask import Flask, request, jsonify
 import hashlib
 
